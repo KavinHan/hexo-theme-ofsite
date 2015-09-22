@@ -1,0 +1,19 @@
+menu:
+  about: /
+  downlaod: /
+  documentation: /
+  tutorials: /
+  gallery: /
+  community: /
+  development: /
+
+
+
+# Static files
+vendors: vendors
+css: css
+js: js
+images: images
+
+# Theme version
+version: 0.4.5.1
