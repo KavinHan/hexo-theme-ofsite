@@ -1,5 +1,5 @@
 <span class="logo">
-  <img src="{{ url_for(theme.images) }}/of-logo.svg" alt="">
+  <a href="/"><img src="{{ url_for(theme.images) }}/of-logo.svg" alt=""></a>
 </span>
 
 <nav class="site-nav">

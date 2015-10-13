@@ -1,11 +1,11 @@
 menu:
-  about: /
-  downlaod: /
-  documentation: /
-  tutorials: /
-  gallery: /
-  community: /
-  development: /
+  about: /about
+  download: /download
+  documentation: /documentation
+  tutorials: /tutorials
+  gallery: /gallery
+  community: /community
+  development: /development
 
 
 

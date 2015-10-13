@@ -13,8 +13,6 @@
     <main id="main" class="main">
       <div class="main-inner">
         <div id="content" class="content"> {% block content %}{% endblock %} </div>
-
-
       </div>
     </main>
   </div>
